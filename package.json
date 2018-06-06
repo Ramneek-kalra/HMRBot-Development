@@ -1,0 +1,30 @@
+{
+  "name": "bothmr",
+  "version": "1.0.0",
+  "description": "HMR Helper is the Automatic Conference Detail Provider. Hope you will like using it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramneek-kalra/HMRBot.git"
+  },
+  "keywords": [
+    "Conference",
+    "Helper",
+    "HMR",
+    "Helper",
+    "MARC",
+    "2018"
+  ],
+  "author": "Ramneek Kalra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramneek-kalra/HMRBot/issues"
+  },
+  "homepage": "https://github.com/Ramneek-kalra/HMRBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.15.0"
+  }
+}
